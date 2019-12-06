@@ -1,4 +1,4 @@
-#### Web server 와 WAS(Web Application Server)
+## Web server 와 WAS(Web Application Server)
 
 ![Web server와 WAS 동작](../src/webserver_was.png)
 
