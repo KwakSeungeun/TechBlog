@@ -24,7 +24,7 @@
 
 #### SPA에서의 Web server, WAS 구성 
 
-![SPA Architecture](../src/spa_server.png)
+
 
 ---
 
