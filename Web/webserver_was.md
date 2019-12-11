@@ -38,10 +38,12 @@
     이들은 nodejs server에서 동작하게 된다. 따라서 nodejs server에 대한 이해가 필요하다
 
 
-* Node vs Web server
+* Node vs Web server 
     
-        
-        
+    Node server는 runtime으로돌아가는 서버로 단순한 정적인 파일만 응답해주는 web server와는 다른 구조를 가지고 있다. 위의 framework들은 node기반의 서버에서 돌아가며 브라우저에서의 요청을 처리한다. spring boot와 같이 Tomcat기반의 API server와 통신하며 웹이 동작하게 된다.
+    SPA라는 새로운 방식을 도입하기 위해서는 기존의 web server와 was가 이에 맞는 Nodejs server를 사용하기 시작하는 것으로 보인다.
+    
+    > 이 부분은 자료들을 학습중인 부분들이라 틀릴 수도 있음!
 
 ---
 
