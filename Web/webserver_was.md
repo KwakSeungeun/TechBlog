@@ -22,7 +22,7 @@
 ---
 
 
-#### SPA에서의 Web server, WAS 구성 --> Nodejs server
+#### SPA에서의 Web server, WAS 구성 --> Nodejs server & WAS server
 
 * SPA(Single Page Application)란 ? 
 
@@ -38,6 +38,10 @@
     이들은 nodejs server에서 동작하게 된다. 따라서 nodejs server에 대한 이해가 필요하다
 
 
+* Node vs Web server
+    
+        
+        
 
 ---
 
