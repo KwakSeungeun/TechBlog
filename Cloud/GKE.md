@@ -2,7 +2,7 @@
 
 ```git clone https://github.com/googlecodelabs/orchestrate-with-kubernetes.git```
 
-* monolith type(1 container) yaml files
+* 🐤monolith type(1 container) yaml files
     ```
     apiVersion: v1
     kind: Pod

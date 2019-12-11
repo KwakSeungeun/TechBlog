@@ -22,7 +22,20 @@
 ---
 
 
-#### SPA에서의 Web server, WAS 구성 
+#### SPA에서의 Web server, WAS 구성 --> Nodejs server
+
+* SPA(Single Page Application)란 ? 
+
+    최근 웹의 트랜드라고 할 수 있는 SPA는 하나의 페이지(ex. index.html)에서 모든 일을 수행하는 것을 말한다. 전통적인 웹 방식은 필요한 페이지를 요청하고 응답받는 형태였다. SPA는 초기에 모든 데이터를 호출하고 Ajax(Asynchronous Javascript and XML / 서버 클라이언트 통신 기법)를 사용하여 필요한 데이터를 업데이트 하는 형식으로 변화했다. 초기 데이터를 호출하는데 시간이 들지만 필요한 부분만 변경하여 처리속도를 향상시킬 수 있다. 
+    > SPA의 경우 단순한 한 페이지만 검색엔진에 노출되므로 검색에 취약하다는 단점이 있음 --> SSR로 해결
+
+    ![spa](../src/spa.jpg)
+    
+
+* SPA 구축을 위한 도구 - React.js, Vue.js, Angular.js
+
+    위의 세가지 framework는 javascript기반으로 SPA로 제작하는데 유용하다.
+    이들은 nodejs server에서 동작하게 된다. 따라서 nodejs server에 대한 이해가 필요하다
 
 
 
