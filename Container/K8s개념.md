@@ -9,7 +9,7 @@
 ### Cluster, node, pods, services에 대한 개념
 1. Cluster
     
-    K8s(Kubernetes에서 )
+    K8s에서 가장 큰 개념 
 
 
 
